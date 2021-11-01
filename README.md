@@ -19,22 +19,26 @@ The project utilizies a created model to attempt to win every Blackjack game. Th
 <!-- Getting started -->
 ## Getting started
 ### Installation
-Clone the repo
+Clone the repository
    ```sh
    git clone https://github.com/ArthurDayot/BlackjackAI.git
    ```
+Install required packages
+   ```sh
+   pip install -r requirements.txt
+   ```
 ### Running the game
-Open a terminal and enter in the command to open a running window of the game
+Command to open a running window of the game
    ```sh
    $py blackjack.py
    ```
 ### Creating a new model
-Open a terminal and enter in the command to create a new model file
+Command to create a new model file
    ```sh
    $py generate_dataset.py
    ```
 ### Testing the winrate of the model
-Open a terminal and enter in the command to test the winrate of the model
+Command to test the winrate of the model
    ```sh
    $py win_rate.py
    ```
