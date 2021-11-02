@@ -6,7 +6,7 @@
 ## About the project
 Most casino games have randomness as arguably its biggest element of the game, which leads to some to believe the concept of luck as superstition to varying degrees. However I personally believe Blackjack has room for skill and strategy more than any other well known casino game. Thus I decided to create this project of an AI for Blackjack. My inpsiriations came from both the concept of winning money on a short amount of time (gambling), and the feature film basaed on the same game, 21, released in 2008, and directed by Robert Luketic.
 
-The project utilizies a created model to attempt to win every Blackjack game. There is not (yet) a way the user can interact with the games while they play. Until further improvements, for now the program only involves 1 dealer, and 1 AI player. SKlearn and Scipy is used to develop the algorithm for the AI. Joblib is used for saving the AI model. Pandas is used to help format and organize the data for the model.
+The project utilizies a created model to attempt to win every Blackjack game. The model is created from 100,000 simulated games. There is not (yet) a way the user can interact with the games while they play. Until further improvements, for now the program only involves 1 dealer, and 1 AI player. SKlearn and Scipy is used to develop the algorithm for the AI. Joblib is used for easier, parallel computing. Pandas is used to help format and organize the data for the model.
 
 <!-- Built with -->
 ##  Built with 
