@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="250" src="https://dailycandidnews.com/wp-content/uploads/2019/10/sphe-21_2008-Full-Image_GalleryCover-en-US-1484000130237._UY500_UX667_RI_VnHhcIo852m4Dj7aUBcsnVlucmitZAou_TTW_.jpg">
+	<img style='height: 100%; width: 100%; object-fit: contain' src="https://dailycandidnews.com/wp-content/uploads/2019/10/sphe-21_2008-Full-Image_GalleryCover-en-US-1484000130237._UY500_UX667_RI_VnHhcIo852m4Dj7aUBcsnVlucmitZAou_TTW_.jpg">
 </p>
 
 <!-- About the project -->
